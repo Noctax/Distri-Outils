@@ -1,6 +1,5 @@
 # Distri-Outils
- Sarl Abdou
 
-DistriOutils --------------------> Les pros l'exigent
+Distri_Outils
 
-Link: https://noctax.github.io/Distri-Outils/
+Link: https://distri-outils.pages.dev/
